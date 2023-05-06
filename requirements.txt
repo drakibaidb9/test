@@ -1,2 +1,2 @@
 py-cryptonight
-pyrx
+git+https://github.com/jtgrassie/pyrx

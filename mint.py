@@ -13,7 +13,7 @@ import threading
 import subprocess
 import multiprocessing
 
-import pycryptonight
+import py-cryptonight
 import pyrx
 
 

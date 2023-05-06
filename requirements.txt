@@ -1,2 +1,2 @@
 py-cryptonight
-pyrx==0.3.0
+pyrx

